@@ -1,5 +1,5 @@
 FROM node:16.3.0
-LABEL repository="git@github.com:Jaysolutely/eosio-did-driver-proposal.git"
+LABEL repository="git@github.com:Jaysolutely/eosio-did-driver.git"
 
 USER root
 
