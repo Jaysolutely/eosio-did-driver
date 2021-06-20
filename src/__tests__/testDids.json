@@ -1,0 +1,26 @@
+[
+  {
+    "did": "did:eosio:accountname",
+    "expectedResult": {
+      "didResolutionMetadata": {
+        "contentType": "application/did+ld+json"
+      },
+      "didDocument": {
+        "id": "did:eosio:stub"
+      },
+      "didDocumentMetadata": {}
+    }
+  },
+  {
+    "did": "did:eosio:accountname",
+    "expectedResult": {
+      "didResolutionMetadata": {
+        "contentType": "application/did+ld+json"
+      },
+      "didDocument": {
+        "id": "did:eosio:stub"
+      },
+      "didDocumentMetadata": {}
+    }
+  }
+]
